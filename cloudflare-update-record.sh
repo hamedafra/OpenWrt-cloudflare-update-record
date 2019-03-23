@@ -4,7 +4,6 @@
 auth_email="email@example.com"
 auth_key="example_auth_key" # found in cloudflare account settings
 zone_name="example.com"
-#record_name="hamed.mobi"
 record_names='example.com *.example.com www.example.com'
 
 # MAYBE CHANGE THESE
